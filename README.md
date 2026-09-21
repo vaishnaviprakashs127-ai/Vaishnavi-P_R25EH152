@@ -7,3 +7,10 @@ This repository is used to practice Git, GitHub, version control, programming, a
 Repository Purpose
 
 This repository documents my practical learning, development activities, and progress with modern software development tools.
+
+Technologies
+
+- Python
+- C
+- Git and GitHub
+- Visual Studio Code
